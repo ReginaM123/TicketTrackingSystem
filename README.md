@@ -1,7 +1,7 @@
 
  Ticket Tracking System
 
-### Overview
+ Overview
 
 This project is a Ticket Tracking System built with ASP.NET Core MVC (Phase I) and expanded with additional functionalities in Phase II. The system allows different types of users (QA, RD, PM, Administrator) to manage and track various tickets, including bugs, feature requests, and test cases.
 
